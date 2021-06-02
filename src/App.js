@@ -6,8 +6,6 @@ import 'react-image-gallery/styles/css/image-gallery.css'
 function App() {
   return (
     <div className="App">
-      <Header>
-      </Header>
       <Contact></Contact>
       <Gallery></Gallery>
       
