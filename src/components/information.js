@@ -8,7 +8,7 @@ class ContactInfo extends Component {
         return ( 
             <div id="information">
                 <h4 id="contact">Contact Details</h4>
-                <p>Owner: Theresa Thomas</p>
+                <p><strong>Owner: Theresa Thomas</strong></p>
             <div class="col">
                 <p>Phone</p>
                 <p>(423)-883-2742</p>
