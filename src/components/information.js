@@ -16,6 +16,7 @@ class ContactInfo extends Component {
             <div class = "col">
                 <p>Email</p>
                 <a href="mailto:dalpal1997@gmail.com">dalpal1997@gmail.com</a>
+                <p>Test</p>
             </div>
             </div>
          );
