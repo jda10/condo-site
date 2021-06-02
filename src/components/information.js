@@ -11,7 +11,7 @@ class ContactInfo extends Component {
                 <p><strong>Owner: Teresa Thomas</strong></p>
             <div class="col">
                 <p>Phone</p>
-                <p>(423)-883-2742</p>
+                <p>(423)-290-1847</p>
             </div>
             <div class = "col">
                 <p>Email</p>
