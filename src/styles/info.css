@@ -1,0 +1,24 @@
+#information{
+    margin: auto;
+    width: 50%;
+    color: white;
+    background-color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    overflow:hidden;
+    word-wrap: break-word;
+}
+
+.col{
+    display: inline-block;
+    margin: 0 auto;
+    margin-left: 1.250em;
+    width: 40%;
+    overflow:hidden;
+    word-wrap: break-word;
+    vertical-align: top 
+}
+
+a{
+    color: white
+}
